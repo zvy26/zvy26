@@ -4,7 +4,7 @@
 
 ---
 
-<div align="right">
+<div align="left">
 
 ## 👨‍💻 Professional Summary
 
@@ -22,7 +22,7 @@
 
 ---
 
-<div align="right">
+<div align="left">
 
 ## 🛠️ Technical Expertise
 
@@ -49,7 +49,7 @@
 
 ---
 
-<div align="right">
+<div align="left">
 
 ## 💼 Professional Excellence
 
@@ -64,7 +64,7 @@
 
 ---
 
-<div align="right">
+<div align="left">
 
 ## 📫 Professional Network
 
