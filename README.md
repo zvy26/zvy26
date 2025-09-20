@@ -65,21 +65,18 @@
 <a href="https://www.linkedin.com/in/kamronbek-sultonmurodov26">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br>
 <b>LinkedIn</b><br>
-<sub>Professional Network</sub>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://t.me/zvy26">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/><br>
 <b>Telegram</b><br>
-<sub>Direct Message</sub>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="mailto:komacoder26@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br>
 <b>Email</b><br>
-<sub>Business Inquiries</sub>
 </a>
 </td>
 </tr>
