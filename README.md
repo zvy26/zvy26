@@ -2,14 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KAMRONBEK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=51&descAlign=50"/>
 
-```ascii
-██╗  ██╗ █████╗ ███╗   ███╗██████╗  ██████╗ ███╗   ██╗██████╗ ███████╗██╗  ██╗
-██║ ██╔╝██╔══██╗████╗ ████║██╔══██╗██╔═══██╗████╗  ██║██╔══██╗██╔════╝██║ ██╔╝
-█████╔╝ ███████║██╔████╔██║██████╔╝██║   ██║██╔██╗ ██║██████╔╝█████╗  █████╔╝ 
-██╔═██╗ ██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║██║╚██╗██║██╔══██╗██╔══╝  ██╔═██╗ 
-██║  ██╗██║  ██║██║ ╚═╝ ██║██║  ██║╚██████╔╝██║ ╚████║██████╔╝███████╗██║  ██╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+
 
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+%F0%9F%91%8B;I'm+a+Software+Engineer;Turning+ideas+into+reality;Welcome+to+my+digital+world!" />
