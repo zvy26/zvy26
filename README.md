@@ -56,60 +56,228 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c7103fd8-7bb5-4174-9d28-8c7c6dcf3a5b.png" width="30"> GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> My Coding Philosophy
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamronbek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamronbek&theme=tokyonight&hide_border=true" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamronbek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamronbek&theme=tokyonight" />
+### 🎯 Core Principles
 
 </div>
 
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"><br>
+<b>🏗️ Scalable Architecture</b><br>
+<sub>Building systems that grow with business needs</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"><br>
+<b>🧩 Clean Code</b><br>
+<sub>Writing code that tells a story</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"><br>
+<b>🤝 Team Collaboration</b><br>
+<sub>Success through collective effort</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c7103fd8-7bb5-4174-9d28-8c7c6dcf3a5b.png" width="30"> What I'm Working On
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamronbek&theme=tokyo-night&hide_border=true&area=true" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"><br>
+<b>🚀 Current Focus</b><br>
+<sub>Building next-generation web applications with modern tech stack</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200"><br>
+<b>📚 Learning</b><br>
+<sub>Exploring AI/ML integration and cloud-native architectures</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Connect With Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Featured Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/kamronbek)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4)](https://t.me/kamronbek)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:kamronbek@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/kamronbek)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://kamronbek.dev)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
+<h3>🌐 E-Commerce Platform</h3>
+<p><sub>Full-stack solution with React, Node.js, and MongoDB</sub></p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</td>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<h3>📱 Mobile Task Manager</h3>
+<p><sub>Cross-platform app built with React Native</sub></p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"><br>
+<h3>🤖 AI Chat Assistant</h3>
+<p><sub>Intelligent chatbot with natural language processing</sub></p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+</td>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<h3>☁️ Cloud Infrastructure</h3>
+<p><sub>Scalable microservices architecture on AWS</sub></p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> Quote of the Day
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Experience & Expertise
 
 <div align="center">
 
-### *"Code is like humor. When you have to explain it, it's bad."*
-**- Cory House**
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="80"><br>
+<b>Frontend Development</b><br>
+<sub>React • Vue • Angular<br>TypeScript • JavaScript</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
+<b>Backend Development</b><br>
+<sub>Node.js • Python • Java<br>Express • Django • Spring</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
+<b>Database Management</b><br>
+<sub>MongoDB • PostgreSQL<br>Redis • MySQL</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>DevOps & Cloud</b><br>
+<sub>Docker • Kubernetes<br>AWS • CI/CD</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Quick Stats
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Let's Connect & Collaborate
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kamronbek&color=brightgreen&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kamronbek?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/kamronbek?style=for-the-badge&color=yellow)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+### 🌟 Ready to build something amazing together?
+
+<table>
+<tr>
+<td align="center" width="20%">
+<a href="https://www.linkedin.com/in/kamronbek-sultonmurodov26">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"><br>
+<b>LinkedIn</b><br>
+<sub>Professional Network</sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://t.me/zvy26">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"><br>
+<b>Telegram</b><br>
+<sub>Quick Chat</sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="mailto:komacoder26@gmail.com">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"><br>
+<b>Email</b><br>
+<sub>Direct Contact</sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://t.me/KamronbekFE">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4afa-b01d-0372ec8ac3f9.gif" width="50"><br>
+<b>TG Channel</b><br>
+<sub>Frontend Tips</sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://kamronbek.dev">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"><br>
+<b>Portfolio</b><br>
+<sub>My Work</sub>
+</a>
+</td>
+</tr>
+</table>
+
+### 💼 Open for:
+**🚀 Full-time opportunities** • **🤝 Freelance projects** • **💡 Technical consulting** • **🎯 Collaboration**
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> Fun Facts & Interests
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"><br>
+<b>☕ Coffee Enthusiast</b><br>
+<sub>Best code comes with perfect brew</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="100"><br>
+<b>🎮 Gaming Passion</b><br>
+<sub>Strategic thinking meets fun</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br>
+<b>🌱 Tech Blogger</b><br>
+<sub>Sharing knowledge with community</sub>
+</td>
+</tr>
+</table>
+
+### 🎯 Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=kamronbek&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=for-the-badge)
+![Projects Completed](https://img.shields.io/badge/Projects-50%2B-orange?style=for-the-badge)
+![Happy Clients](https://img.shields.io/badge/Happy%20Clients-100%25-success?style=for-the-badge)
 
 </div>
 
