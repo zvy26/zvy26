@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KAMRONBEK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=51&descAlign=50"/>
 
-
-
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+%F0%9F%91%8B;I'm+a+Software+Engineer;Turning+ideas+into+reality;Welcome+to+my+digital+world!" />
 </h2>
@@ -49,108 +47,6 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> My Coding Philosophy
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-### 🎯 Core Principles
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"><br>
-<b>🏗️ Scalable Architecture</b><br>
-<sub>Building systems that grow with business needs</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"><br>
-<b>🧩 Clean Code</b><br>
-<sub>Writing code that tells a story</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"><br>
-<b>🤝 Team Collaboration</b><br>
-<sub>Success through collective effort</sub>
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c7103fd8-7bb5-4174-9d28-8c7c6dcf3a5b.png" width="30"> What I'm Working On
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"><br>
-<b>🚀 Current Focus</b><br>
-<sub>Building next-generation web applications with modern tech stack</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200"><br>
-<b>📚 Learning</b><br>
-<sub>Exploring AI/ML integration and cloud-native architectures</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
-<h3>🌐 E-Commerce Platform</h3>
-<p><sub>Full-stack solution with React, Node.js, and MongoDB</sub></p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-</td>
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
-<h3>📱 Mobile Task Manager</h3>
-<p><sub>Cross-platform app built with React Native</sub></p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"><br>
-<h3>🤖 AI Chat Assistant</h3>
-<p><sub>Intelligent chatbot with natural language processing</sub></p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-</td>
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-<h3>☁️ Cloud Infrastructure</h3>
-<p><sub>Scalable microservices architecture on AWS</sub></p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Experience & Expertise
 
 <div align="center">
@@ -183,8 +79,6 @@
 </div>
 
 ---
-
-<div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Let's Connect & Collaborate
 
@@ -236,41 +130,6 @@
 
 ### 💼 Open for:
 **🚀 Full-time opportunities** • **🤝 Freelance projects** • **💡 Technical consulting** • **🎯 Collaboration**
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> Fun Facts & Interests
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100"><br>
-<b>☕ Coffee Enthusiast</b><br>
-<sub>Best code comes with perfect brew</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="100"><br>
-<b>🎮 Gaming Passion</b><br>
-<sub>Strategic thinking meets fun</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br>
-<b>🌱 Tech Blogger</b><br>
-<sub>Sharing knowledge with community</sub>
-</td>
-</tr>
-</table>
-
-### 🎯 Quick Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=kamronbek&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=for-the-badge)
-![Projects Completed](https://img.shields.io/badge/Projects-50%2B-orange?style=for-the-badge)
-![Happy Clients](https://img.shields.io/badge/Happy%20Clients-100%25-success?style=for-the-badge)
 
 </div>
 
