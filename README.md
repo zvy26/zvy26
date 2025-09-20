@@ -1,20 +1,20 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2328,30363d&height=120&section=header&text=KAMRONBEK&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2328,30363d&height=120&section=header&text=KAMRONBEK&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer&descAlignY=51&descAlign=62"/>
 </div>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-**Senior Software Engineer** specializing in enterprise-grade full-stack development and scalable system architecture. Proven track record of transforming complex business requirements into elegant, high-performance software solutions. Expert in modern development ecosystems with a passion for clean code, innovative problem-solving, and delivering exceptional user experiences.
+**Frontend Engineer** specializing in modern web application development with a strong focus on user experience and performance optimization. Currently expanding skillset in backend technologies, particularly Java development, with the goal of becoming a full-stack Software Engineer. Passionate about creating intuitive, responsive interfaces while building a comprehensive understanding of end-to-end application development.
 
 **Core Competencies:**
-- End-to-end application development with focus on performance optimization
-- Microservices architecture and distributed system design
-- Advanced database modeling, optimization, and performance tuning
-- Cloud-native development and infrastructure automation
-- Technical leadership, code quality assurance, and team mentorship
-- Agile/Scrum methodologies and DevOps best practices
+- Advanced frontend development with modern JavaScript frameworks
+- Responsive design and cross-browser compatibility optimization
+- User interface/experience design and implementation
+- Currently mastering Java for backend development
+- Version control and collaborative development practices
+- Agile development methodologies and best practices
 
 ---
 
@@ -43,12 +43,12 @@
 
 ## 💼 Professional Excellence
 
-**Specialized Domains:**
-- **Frontend Architecture**: Crafting intuitive, responsive user interfaces with modern JavaScript frameworks and advanced state management
-- **Backend Systems**: Engineering robust, scalable server-side applications with RESTful APIs and microservices architecture
-- **Database Engineering**: Designing efficient data models, implementing complex queries, and optimizing database performance at scale
-- **System Design**: Architecting enterprise-level solutions with emphasis on scalability, reliability, and maintainability
-- **Cloud Infrastructure**: Deploying and managing applications using AWS services, implementing CI/CD pipelines, and infrastructure as code
+**Current Focus & Growth Areas:**
+- **Frontend Mastery**: Building exceptional user interfaces with React, Vue.js, and modern CSS frameworks
+- **Java Development**: Actively learning Java fundamentals, OOP principles, and Spring framework for backend expansion
+- **Full-Stack Transition**: Developing comprehensive understanding of database design and server-side architecture
+- **Performance Optimization**: Implementing best practices for fast, responsive web applications
+- **Professional Development**: Continuously expanding technical knowledge toward becoming a versatile Software Engineer
 
 ---
 
@@ -78,7 +78,7 @@
 </tr>
 </table>
 
-**Open to:** Senior developer positions • Architecture consultations • Technical leadership roles • Strategic partnerships
+**Open to:** Frontend developer positions • Junior full-stack opportunities • Java development projects • Mentorship and learning collaborations
 
 </div>
 
@@ -87,6 +87,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2328,30363d&height=60&section=footer"/>
 
-**"Exceptional software is born from the intersection of technical mastery, creative problem-solving, and relentless attention to detail."**
+**"Great software begins with mastering the fundamentals, then continuously expanding your horizons to create meaningful solutions."**
 
 </div>
