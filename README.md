@@ -1,123 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KAMRONBEK&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Code%20Architect&descAlignY=51&descAlign=50"/>
-
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+%F0%9F%91%8B;I'm+a+Software+Engineer;Turning+ideas+into+reality;Welcome+to+my+digital+world!" />
-</h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2328,30363d&height=120&section=header&text=KAMRONBEK&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding Gif" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 👨‍💻 Professional Summary
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> About Me
+**Software Engineer** with expertise in full-stack development and system architecture. Passionate about building scalable, maintainable solutions and delivering high-quality software products. Experienced in modern development practices, cloud technologies, and collaborative team environments.
 
-🚀 **Software Engineer** passionate about building scalable solutions  
-💻 **Problem Solver** who loves turning complex challenges into elegant code  
-🎯 **Tech Enthusiast** always exploring the latest technologies  
-🌱 **Continuous Learner** staying updated with industry trends  
-⚡ **Innovation Driver** creating impactful digital experiences  
-🤝 **Team Player** collaborating to build amazing products  
-☕ **Coffee-Powered** developer with a passion for clean code  
-
-<br clear="both">
+**Core Competencies:**
+- Full-stack web application development
+- System design and architecture
+- Database design and optimization  
+- DevOps and cloud deployment
+- Code review and mentoring
+- Agile development methodologies
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 🚀 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,react,nodejs,express,django,spring,vue" />
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🛠️ Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,mongodb,postgresql,redis,nginx,linux" />
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Development Environment
-<img src="https://skillicons.dev/icons?i=vscode,intellij,vim,bash,postman,figma,notion,slack" />
+### Backend Technologies  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&titleAlign=center&align=center&lineCount=3&theme=github_dark&line1=react,nodejs,typescript,javascript;&line2=python,mongodb,postgresql,docker;&line3=aws,kubernetes,git,linux;" alt="Tech Stack" />
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Experience & Expertise
+## 💼 Professional Experience
 
-<div align="center">
+**Areas of Expertise:**
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="80"><br>
-<b>Frontend Development</b><br>
-<sub>React • Vue • Angular<br>TypeScript • JavaScript</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
-<b>Backend Development</b><br>
-<sub>Node.js • Python • Java<br>Express • Django • Spring</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-<b>Database Management</b><br>
-<sub>MongoDB • PostgreSQL<br>Redis • MySQL</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
-<b>DevOps & Cloud</b><br>
-<sub>Docker • Kubernetes<br>AWS • CI/CD</sub>
-</td>
-</tr>
-</table>
-
-</div>
+- **Frontend Development**: Building responsive, user-friendly interfaces with modern JavaScript frameworks
+- **Backend Development**: Designing and implementing robust server-side applications and APIs
+- **Database Management**: Optimizing database performance and ensuring data integrity
+- **System Architecture**: Planning scalable solutions for complex business requirements
+- **DevOps**: Implementing CI/CD pipelines and cloud deployment strategies
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> Let's Connect & Collaborate
+## 📫 Professional Contact
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-### 🌟 Ready to build something amazing together?
 
 <table>
 <tr>
 <td align="center" width="33%">
 <a href="https://www.linkedin.com/in/kamronbek-sultonmurodov26">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="60" width="60" /><br>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br>
 <b>LinkedIn</b><br>
 <sub>Professional Network</sub>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://t.me/zvy26">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="telegram" height="60" width="60" style="fill: #0088CC;" /><br>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/><br>
 <b>Telegram</b><br>
-<sub>Quick Chat</sub>
+<sub>Direct Message</sub>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="mailto:komacoder26@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="email" height="60" width="60" /><br>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br>
 <b>Email</b><br>
-<sub>Direct Contact</sub>
+<sub>Business Inquiries</sub>
 </a>
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 💼 Open for:
-🚀 **Full-time opportunities** • 🤝 **Freelance projects** • 💡 **Technical consulting** • 🎯 **Collaboration**
+**Available for:** Full-time opportunities • Contract projects • Technical consulting • Collaboration
 
 </div>
 
@@ -125,8 +109,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=fff&desc=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together!&descAlign=50&descAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2328,30363d&height=60&section=footer"/>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Let's Connect and Build the Future Together! <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25">
+**"Quality code is not written by accident. It requires dedication, skill, and attention to detail."**
 
 </div>
