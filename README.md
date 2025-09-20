@@ -4,6 +4,8 @@
 
 ---
 
+<div align="right">
+
 ## 👨‍💻 Professional Summary
 
 **Frontend Engineer** specializing in modern web application development with a strong focus on user experience and performance optimization. Currently expanding skillset in backend technologies, particularly Java development, with the goal of becoming a full-stack Software Engineer. Passionate about creating intuitive, responsive interfaces while building a comprehensive understanding of end-to-end application development.
@@ -16,9 +18,15 @@
 - Version control and collaborative development practices
 - Agile development methodologies and best practices
 
+</div>
+
 ---
 
+<div align="right">
+
 ## 🛠️ Technical Expertise
+
+</div>
 
 <div align="center">
   
@@ -41,6 +49,8 @@
 
 ---
 
+<div align="right">
+
 ## 💼 Professional Excellence
 
 **Current Focus & Growth Areas:**
@@ -50,9 +60,15 @@
 - **Performance Optimization**: Implementing best practices for fast, responsive web applications
 - **Professional Development**: Continuously expanding technical knowledge toward becoming a versatile Software Engineer
 
+</div>
+
 ---
 
+<div align="right">
+
 ## 📫 Professional Network
+
+</div>
 
 <div align="center">
 <table>
