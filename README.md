@@ -90,39 +90,25 @@
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="33%">
 <a href="https://www.linkedin.com/in/kamronbek-sultonmurodov26">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60"><br>
+<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="60" width="60" /><br>
 <b>LinkedIn</b><br>
 <sub>Professional Network</sub>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="33%">
 <a href="https://t.me/zvy26">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60"><br>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="telegram" height="60" width="60" style="fill: #0088CC;" /><br>
 <b>Telegram</b><br>
 <sub>Quick Chat</sub>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="33%">
 <a href="mailto:komacoder26@gmail.com">
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" height="60"><br>
+<img src="https://skillicons.dev/icons?i=gmail" alt="email" height="60" width="60" /><br>
 <b>Email</b><br>
 <sub>Direct Contact</sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://t.me/KamronbekFE">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4afa-b01d-0372ec8ac3f9.gif" width="60" height="60"><br>
-<b>TG Channel</b><br>
-<sub>Frontend Tips</sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://kamronbek.dev">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" height="60"><br>
-<b>Portfolio</b><br>
-<sub>My Work</sub>
 </a>
 </td>
 </tr>
