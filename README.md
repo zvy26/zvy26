@@ -75,19 +75,19 @@
 <tr>
 <td align="center" width="33%">
 <a href="https://www.linkedin.com/in/kamronbek-sultonmurodov26">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br>
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" height="40"/><br>
 <b>Professional Network</b><br>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://t.me/zvy26">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/><br>
+<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20" alt="Telegram" height="40"/><br>
 <b>Direct Communication</b><br>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="mailto:komacoder26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/><br>
+<img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" height="40"/><br>
 <b>Business Inquiries</b><br>
 </a>
 </td>
